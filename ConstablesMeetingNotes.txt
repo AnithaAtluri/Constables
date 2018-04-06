@@ -1,0 +1,18 @@
+1) Environment : 
+
+http://10.10.101.78/TestCRM
+
+2)Database:10.10.101.232--> Courts DB
+Enforcement_Final: table Updates major 
+http://10.10.101.232/ConstablesDev
+
+
+3) to drop off the file in 232
+10.10.101.232-->D:inetpub/wwwrrot/constables
+
+4) remote connection to 232 
+
+5) Clerks accounts for testing
+    Userid:svc_mainframe
+    p/w: Computer1234
+
